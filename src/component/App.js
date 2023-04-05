@@ -1,6 +1,7 @@
 
 import './App.css';
-
+import {Header } from Header;
+import {products } from products ;
 function App() {
   return (
     <div className="App">
